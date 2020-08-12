@@ -10,6 +10,7 @@ Steps To Run This Tool:
     
     TOOL IS CREATED BY KRISNA PRANAV
     using sundowndev's version etc...
+    his github link https://github.com/sundowndev/PhoneInfoga
     
     Found Any Error ?
     Mail Me: krisna.pranav@gmail.com
